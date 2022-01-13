@@ -18,3 +18,9 @@ orchestration and in developing CI/CD pipelines
 - 🤔 I’m looking for help to find a job and immigrate to another country
 - 📫 How to reach me: mojtaba.naserei@gmail.com
 
+---
+## For see my full resume:
+- [linkedin](https://www.linkedin.com/in/mojtaba-naseri/)
+- [My website](https://mojtabanaseri.com) 
+
+
