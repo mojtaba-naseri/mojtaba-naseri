@@ -6,17 +6,12 @@ orchestration and in developing CI/CD pipelines
 
 ---
 ## Experience:
-**DevOps Engineer at [Mofid Securities](https://www.emofid.com/)**
-_________________
-**DevOps Engineer at [Mishka Group](https://github.com/mishka-group/mishka-cms)**
-_________________
-**DevOps Engineer at [Symo](https://symolife.com)**
-_________________
-**DevOps Engineer at [XaaS Cloud Computing](https://xaas.ir/)**
-_________________
-**Technical Support Specialist at [XaaS Cloud Computing](https://xaas.ir/)**
-_________________
-**Server Administrator at [Trangell](https://trangell.com)**
+- DevOps Engineer at [Mofid Securities](https://www.emofid.com/)
+- DevOps Engineer at [Mishka Group](https://github.com/mishka-group/mishka-cms)
+- DevOps Engineer at [Symo](https://symolife.com)
+- DevOps Engineer at [XaaS Cloud Computing](https://xaas.ir/)
+- Technical Support Specialist at [XaaS Cloud Computing](https://xaas.ir/)
+- Server Administrator at [Trangell](https://trangell.com)
 
 ---
 - 🌱 I’m currently learning Kubernetes
