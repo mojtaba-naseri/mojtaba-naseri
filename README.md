@@ -13,7 +13,7 @@ orchestration and in developing CI/CD pipelines
 - Development and maintenance of shell script
     
 _________________
-**DevOps Engineer at Mishka Group**
+**DevOps Engineer at [Mishka Group](https://github.com/mishka-group/mishka-cms)**
 - Improve automation for CI/CD
 - Write shell script for easy install, maintain and update mishka cms
 
